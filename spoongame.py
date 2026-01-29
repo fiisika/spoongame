@@ -22,7 +22,7 @@ def reading():
     fileName = input()
 
     if fileName == '':  # default file name
-        fileName = 'action2'
+        fileName = 'action'
 
     try:
         file = open(fileName + '.txt')
