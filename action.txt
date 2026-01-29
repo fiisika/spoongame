@@ -1,0 +1,38 @@
+#This is a data file for spoongame
+#you can add any category you want, just use the word >active< or >passive< as code word
+#Mind the syntax
+#category name ends with >:<
+#each item is separated with >;<
+#possible actions, that can be done with this item stand afterwards in >(< >)<	
+#Comments can be done by >#< as own lines or after headlines
+#empty lines are allowed
+
+active soft body parts: #and actions they can do
+hand (touch, caress, wipe); finger (touch, caress, wipe); nose (touch, rub, press); big toe (touch, rub); chin (touch, wipe)
+
+active strong body parts:
+hand (knead, massage, push, press, twist); fingernails (push, poke); chin (knead, poke); leg (knead, stroke); teeth (bite, mark, press, pinch, scratch)
+
+active torture body parts:
+hand (slap, hit, pinch, push, knead, press, slap, hit, twist); backhand (slap, hit, push, press); elbow (press, hit, push); foot (press, kick); chin (press, push); fingernails (press, pinch, scratch, poke)
+
+active erogen body parts:
+lips (kiss, caress, twist, wipe, pinch); tongue (lick, touch, tickle); teeth (touch, scratch, bite)
+
+active explicit body parts:
+genital (slap, stroke, push, stroke, wipe)
+
+active tools:
+flogger (touch, caress, stroke, wipe); paddle (hit, press, caress, touch, stroke, wipe); spoon (hit, stroke, tip); fork (hit, stroke, tip, tickle); dildo (touch, slap, poke, insert); vibrator (touch, press, wipe, insert, caress); plug (insert, press, wipe, caress); feather (touch, caress, wipe, tickle); cotton ball (touch, caress, wipe, tickle)
+
+active torturing tools:
+spoon (hit, scratch, press, poke, mark); fork (hit, scratch, press, poke, mark); flogger (beat, slap, hit, scratch); paddle (beat, slap, hit, scratch, mark); stick (beat, slap, hit, scratch, mark)
+
+passive neutral body parts: #and actions that can be done at it
+hair (pull, twist, wipe, pinch, caress, kiss); hand (pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite); lower leg (mark, tickle, pull, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite); knee (tickle, push, touch, press, wipe, caress, scratch, slap, twist, lick, bite); belly (mark, pinch, pull, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, pinch, tickle); arm (pull, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, pinch, tickle, mark); upper back (pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle, mark); lower back (pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle, mark); upper, outer leg (pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle, mark); nose (pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle); cheek (pinch, push, touch, massage, knead, press, wipe, caress, slap, hit, twist, lick, bite, tickle); shoulder (pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, stamp, twist, lick, bite, mark); arm pit (pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle); toes (pull, pinch, touch, massage, knead, press, wipe, caress, scratch, slap, twist, lick, bite, tickle); elbow (push, touch, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite); chin (pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, twist, lick, bite, tickle); back neck (pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle, mark); teeth (touch, press, wipe, lick, stroke)
+
+passive secondary erogen body parts:
+upper breast (kiss, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle); lower breast (kiss, pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle); mouth (kiss, shut, close, pinch, push, knead, press, wipe, caress, scratch, slap, hit, twist, lick, bite, tickle); frontal neck (kiss, pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle); side neck (kiss, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle); ear (kiss, pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, twist, lick, bite, tickle); ass (kiss, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle); upper, inner leg (kiss, pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle); nipples (kiss, pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle); forehead (kiss, pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, twist, lick, bite, tickle)
+
+passive primal erogen body parts:
+inner genital (kiss, pull, pinch, push, touch, massage, knead, press, wipe, caress, slap, hit, kick, twist, lick, bite, tickle); outer genital (kiss, pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle); surrounding genital (kiss, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle); dam (kiss, pull, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, bite, tickle); asshole (insert, pinch, push, touch, massage, knead, press, wipe, caress, scratch, slap, hit, kick, twist, lick, tickle)
