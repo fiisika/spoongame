@@ -1,12 +1,3 @@
-# following should be ordered in a txt, read by computer to set up a dictionary
-# (tuple(string bodypart,int hardness)-> tuple waysofstimulation)
-# => > import json <
-
-# better list of dictionaries
-# [{'name':'Hand','active':True,'softStimulation'=[...],'strong...},{...},...]
-
-# chooses an action that fits on both body parts
-
 import random  # REQUIRED for random.choice()
 
 parts = {}
@@ -17,15 +8,18 @@ players = []
 
 # reading the extern file of included items
 def reading():
-    print('Insert a .txt-file name (without ending) of a file inside the folder of spoongame.')
+    print('Insert a .txt-file name of a syntax-fitting file inside the folder of spoongame.')
     print('Or just press >enter<')
     fileName = input()
 
     if fileName == '':  # default file name
-        fileName = 'action'
+        fileName = 'action.txt'
 
+    elif not fileName.endswith('.txt'):
+        fileName=fileName+'.txt'
+        
     try:
-        file = open(fileName + '.txt')
+        file = open(fileName)
         document = file.readlines()
         file.close()
     except:
